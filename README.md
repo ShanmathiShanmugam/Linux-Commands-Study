@@ -116,6 +116,10 @@ gedit <file_name>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/c1d9b696-5075-4fdb-bfc0-0ff6974f1114)
+
+![image](https://github.com/user-attachments/assets/55e62d55-5489-44cd-865b-b947eb6ec8b2)
+
 ### 9. `su` Command
 
 The `su` command provides administrative access to another user.
@@ -127,6 +131,8 @@ su <username>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/c52b74d6-82fb-4f56-9012-16ec3f642ab0)
+
 ### 10. `mv` Command
 
 The `mv` command is used to move a file or directory from one location to another.
@@ -137,6 +143,8 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+
+![image](https://github.com/user-attachments/assets/d0d40a25-5f9c-48ac-9323-af5da841d207)
 
 ### 11. `rename` Command
 
